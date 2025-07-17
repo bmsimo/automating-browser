@@ -28,3 +28,16 @@
 - https://github.com/browser-use/browser-use
 - https://github.com/browserbase/stagehand
 - https://github.com/Skyvern-AI/skyvern
+
+## Recaptcha Specific
+
+- https://solvecaptcha.com/captcha-solver/recaptcha-v2-solver-bypass
+- https://github.com/DannyLuna17/RecaptchaV2-IA-Solver
+- https://cheq.ai/blog/testing-ai-gpt-4v-against-captcha/
+- https://github.com/chenwei-zhao/captcha-recognizer/
+- https://www.capsolver.com/
+- https://habr.com/en/articles/915078/
+- https://chromewebstore.google.com/detail/buster-captcha-solver-for/mpbjkejclgfgadiemmefgebjfooflfhl?hl=en
+- https://chromewebstore.google.com/detail/captcha-solver-auto-recog/nghbiefcnamlpkjagnhoknkklkfiganp?hl=en
+- https://tik-db.ee.ethz.ch/file/7243c3cde307162630a448e809054d25/
+- https://github.com/JesseFWarren/Computer-Vision-Recaptcha-Solver
